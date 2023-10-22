@@ -246,7 +246,7 @@ transition: background .4s;
     /* background: linear-gradient(132deg,hsl(45,6%,70%)25%,hsl(30,12%,50%)105%); */
     border-radius: 15rem 15rem 0 0;
     display: flex;
-    transform: translateX(100px);
+    transform: translateX(96px);
  
     justify-content: center;
     /* align-items: flex-end; */
